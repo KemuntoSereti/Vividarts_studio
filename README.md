@@ -5,4 +5,4 @@
  using this line in the command prompt;
        pip install flask
 
- After installation, 
+ After installation, working towards getting the app to run.
