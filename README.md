@@ -6,4 +6,4 @@
        pip install flask
 
  After installation, the app ran. 
- We then created a work flow, which the rest of the team reviewed before moving towards the tasks to improve the app's effeciency.
+ We then created a work flow, which the rest of the team reviewed before moving towards the tasks to improve the app's efficiency.
