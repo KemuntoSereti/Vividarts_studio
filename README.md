@@ -5,4 +5,5 @@
  using this line in the command prompt;
        pip install flask
 
- After installation, working towards getting the app to run.
+ After installation, the app ran. 
+ We then created a work flow, which the rest of the team reviewed before moving towards the tasks to improve the app's effeciency.
