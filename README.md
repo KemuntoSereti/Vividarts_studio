@@ -1,9 +1,14 @@
 # Vividarts_studio
  Help Vividarts setup the right environment
- To set up the right environment, first I tried to run the app.py. It broughut an error that it could not trace 'flask'.
- With research, I was able to establish how to install flask in the python environment
- using this line in the command prompt;
-       pip install flask
 
- After installation, the app ran. 
- We then created a work flow, which the rest of the team reviewed before moving towards the tasks to improve the app's efficiency.
+ Below is how we achieved the final result;
+ We downloaded the flask files to enable the availed app.py to run;
+      'pip install flask'
+Then edited the HTML file, to be able to upload photos for editing and thereafter confirm upload.
+
+We then created an S3 bucket to host the photos during upload
+
+Then created a lambda function that renames the photos
+
+We then created another S3 Bucket where the edited photos will be stored
+
